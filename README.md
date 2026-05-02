@@ -20,7 +20,7 @@ This repository contains the slides associated with our talk at the [NCAR/NOAA/N
 
 ## Material
 
-- [OH-2026-Talk-Codefair.pdf](OH-2026-Talk-Codefair): slides of our talk
+- [2026-05-Codefair-Open-Hackathon.pdf](2026-05-Codefair-Open-Hackathon.pdf): slides of our talk
 
 
 ## Resources
