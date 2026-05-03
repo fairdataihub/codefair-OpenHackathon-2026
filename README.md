@@ -8,7 +8,7 @@
 
 ## About
 
-This repository contains the slides associated with our talk at the [NCAR/NOAA/NLR Open Hackathon 2026](https://www.openhackathons.org/s/siteevent/a0CUP00003FytYv2AJ/se000450), an event designed to facilitate collaboration between domain scientists, computational scientists, and research software engineers with goals to improve and optimize their HPC applications or explore and implement new software features for their research goals. We are presenting Codefair, an open-source and free platform for making research software FAIR.
+This repository contains the slides associated with our talk at the [NSF National Center for Atmospheric Research (NCAR), National Laboratory of the Rockies (NLR), and National Oceanic and Atmospheric Administration (NOAA) Open Hackathon 2026](https://www.openhackathons.org/s/siteevent/a0CUP00003FytYv2AJ/se000450), an event designed to facilitate collaboration between domain scientists, computational scientists, and research software engineers with goals to improve and optimize their HPC applications or explore and implement new software features for their research goals. We are presenting Codefair, an open-source and free platform for making research software FAIR.
 
 
 ## Schedule
